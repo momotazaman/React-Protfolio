@@ -13,7 +13,7 @@ function ProjectItem({ name, id , description, to}) {
       <div className="bgItem" />
       <h1> {name} </h1>
       <h2>{description}</h2>
-      <Link to={to}> visit</Link>
+      <Link to={to} target="blank"> visit</Link>
       
       
     </div>
