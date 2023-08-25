@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/React-protfolio/static/css/main.9cc81871.css",
-    "main.js": "/React-protfolio/static/js/main.d716e432.js",
-    "static/js/787.749b4a44.chunk.js": "/React-protfolio/static/js/787.749b4a44.chunk.js",
-    "index.html": "/React-protfolio/index.html",
-    "main.9cc81871.css.map": "/React-protfolio/static/css/main.9cc81871.css.map",
-    "main.d716e432.js.map": "/React-protfolio/static/js/main.d716e432.js.map",
-    "787.749b4a44.chunk.js.map": "/React-protfolio/static/js/787.749b4a44.chunk.js.map"
+    "main.css": "/React-Protfolio/static/css/main.9cc81871.css",
+    "main.js": "/React-Protfolio/static/js/main.dc416d47.js",
+    "static/js/787.749b4a44.chunk.js": "/React-Protfolio/static/js/787.749b4a44.chunk.js",
+    "index.html": "/React-Protfolio/index.html",
+    "main.9cc81871.css.map": "/React-Protfolio/static/css/main.9cc81871.css.map",
+    "main.dc416d47.js.map": "/React-Protfolio/static/js/main.dc416d47.js.map",
+    "787.749b4a44.chunk.js.map": "/React-Protfolio/static/js/787.749b4a44.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.9cc81871.css",
-    "static/js/main.d716e432.js"
+    "static/js/main.dc416d47.js"
   ]
 }
